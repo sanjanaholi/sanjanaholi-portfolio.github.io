@@ -8,6 +8,7 @@ Here's a glimpse into my journey:
 ## 🛠️ Projects
 
 ### *TRAVEL MANAGEMENT SYSTEM*  
+[DAA_Final_project_C9.zip](https://github.com/user-attachments/files/18351055/DAA_Final_project_C9.zip)
 
 *OVERVIEW:* 
 
@@ -30,7 +31,6 @@ Here's a glimpse into my journey:
 5. Customer Feedback and Support Challenges
  Inadequate mechanisms to gather feedback or address traveler issues result in dissatisfaction and 
  reduced user engagement with the system.
-[Uploading DAA_Final_project_C9.zip…]()
 
 
 *Technical Stack:*  
@@ -53,7 +53,7 @@ Tools: Graphs, DAA Optimization Techniques
 
 ## 🚀 *Skills*  
 
-- Proficient in C++. 
+- Proficient in C,C++,Python. 
 - Strong grasp of Data Structures and Algorithms.  
 - Expertise in problem-solving through advanced DAA techniques.  
 - Experience with project development and team collaboration.  
@@ -91,3 +91,4 @@ Tools: Graphs, DAA Optimization Techniques
 
 This portfolio showcases my commitment to pushing boundaries and creating solutions that matter. 
 Let’s connect and build something extraordinary together!
+
